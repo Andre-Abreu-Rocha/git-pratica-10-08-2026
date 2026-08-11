@@ -1,4 +1,3 @@
 # git-pratica-10-08-2026
 AULA PRÁTICA DE GITHUB DA MATERIA DE INTEGRAÇÃO E ENTEGRA CONTÍNUA, DO DIA 10-08-2026 - AULA 2
 André de Abreu Rocha e Glebson Sousa de Almeida
-Linha a reverter
